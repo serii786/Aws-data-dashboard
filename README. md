@@ -1,0 +1,20 @@
+# ☁️ Aws-data-dashboard
+## AWS DATA • SECURE • SCALABLE • REAL-TIME
+
+![Banner](https://raw.githubusercontent.com/serii786/Aws-data-dashboard/main/banner.png)
+
+> Turning raw data into real-time insights with the power of AWS.
+
+### 📊 Dashboard Overview
+- **Monthly Data Processing (TB)** - Bar Chart
+- **Growth Trend 2024 → 2025** - Line Graph
+- **Active Pipelines:** 24 (+12%)
+- **Data Ingested:** 1.4PB (+8%)
+- **Avg Latency:** 45ms (-5%)
+
+### 🛠️ Tech Stack
+`AWS S3 | Redshift | Lambda | Python | Pandas`
+
+### 🚀 Getting Started
+```bash
+git clone https://github.com/serii786/Aws-data-dashboard.git
