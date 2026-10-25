@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AWS Data Dashboard</title>
+<style>
+body { background:#0a1220; color:#fff; font-family:Arial; }
+.header { text-align:center; padding:20px; color:#4dd0e1; }
+.cards { display:flex; justify-content:space-around; margin:20px; }
+.card { background:#112233; padding:20px; border-radius:10px; width:30%; text-align:center; border:1px solid #4dd0e1; }
+.chart { background:#112233; margin:20px; padding:20px; border-radius:10px; }
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>AWS DATA — SECURE | SCALABLE | REAL-TIME</h1>
+    <p>Data-Driven Solutions Powered by AWS</p>
+  </div>
+
+  <div class="cards">
+    <div class="card">Active Pipelines<br><b>24 +12%</b></div>
+    <div class="card">Data Ingested<br><b>1.4PB +8%</b></div>
+    <div class="card">Avg Latency<br><b>45ms -5%</b></div>
+  </div>
+
+  <div class="chart">
+    <h3>Monthly Data Processing (TB)</h3>
+    <p>[Yahan aapka Bar Chart ayega]</p>
+  </div>
+
+  <div class="chart">
+    <h3>Growth Trend 2024 → 2025</h3>
+    <p>[Yahan aapka Line Graph ayega]</p>
+  </div>
+</body>
+</html>
